@@ -13,7 +13,18 @@
 + To better illustrate, here's the image of the process:
 
 ![alt text](https://github.com/Abdullahluqmanov/Data-Mining-Project/blob/main/Process.jpg)
-+ 
+
+#### Project result:
+
++ After both analyzing methods are used, here're the result and conclusion:
++ The most decisive predictor should be 'Compliants', or more precisely, Complaints with value = True. This is because it has the highest value of the standard coefficient and the Z-Value.
++ To better illustrate, here's the image of the result:
++Result of the Decision Tree: 
+![alt text](https://github.com/Abdullahluqmanov/Data-Mining-Project/blob/main/DT.jpg)
+![alt text](https://github.com/Abdullahluqmanov/Data-Mining-Project/blob/main/DT2.jpg)
++Result of the Logistic regression model:
+![alt text](https://github.com/Abdullahluqmanov/Data-Mining-Project/blob/main/LR.jpg)
+
 
 
 
