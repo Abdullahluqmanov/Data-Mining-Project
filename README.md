@@ -13,7 +13,7 @@
 
 + To better illustrate the analysing process, here's the screen shot of the process:
 
-![alt text](CV.jpg)
+![alt text](‪C:\Users\Abdli\OneDrive\Pictures\CV.jpg)
 
 
 
