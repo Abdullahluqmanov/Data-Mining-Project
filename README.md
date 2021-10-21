@@ -9,7 +9,7 @@
 
 #### Analysis method used in this project:
 
-+ To achieve better accuracy, both decision tree and the logistic regression is used in this project.
++ To achieve better accuracy, both the decision tree and the logistic regression are used in this project.
 + To better illustrate, here's the image of the process:
 
 ![alt text](https://github.com/Abdullahluqmanov/Data-Mining-Project/blob/main/Process.jpg)
@@ -19,13 +19,13 @@
 + After both analyzing methods are used, here're the result and conclusion:
 + The most decisive predictor should be 'Compliants', or more precisely, Complaints with value = True. This is because it has the highest value of the standard coefficient and the Z-Value.
 + To better illustrate, here's the image of the result:
-+Result of the Decision Tree: 
++ Result of the Decision Tree: 
 ![alt text](https://github.com/Abdullahluqmanov/Data-Mining-Project/blob/main/DT.jpg)
 ![alt text](https://github.com/Abdullahluqmanov/Data-Mining-Project/blob/main/DT2.jpg)
-+Result of the Logistic regression model:
++ Result of the Logistic regression model:
 ![alt text](https://github.com/Abdullahluqmanov/Data-Mining-Project/blob/main/LR.jpg)
 
-
++ As we can see from the graph, the most decisive factor of the churn should be the complaints from the customer.
 
 
 
