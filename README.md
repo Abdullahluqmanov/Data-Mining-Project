@@ -1,3 +1,6 @@
 # Documentation for this Data Mining Project
 
-### This documentation will provide the background of the project
+### This document will present background information about the project, the research methods used, and the conclusions reached.
+#### Part 1: Project background
+
+-
