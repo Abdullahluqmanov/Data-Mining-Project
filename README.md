@@ -11,9 +11,9 @@
 
 + To achieve better accuracy, both decision tree and the logistic regression is used in this project.
 
-+ To better illustrate the analysing process, here's the screen shot of the process:
 
-![alt text](‪C:\Users\Abdli\OneDrive\Pictures\CV.jpg)
+
+
 
 
 
