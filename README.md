@@ -10,6 +10,10 @@
 #### Analysis method used in this project:
 
 + To achieve better accuracy, both decision tree and the logistic regression is used in this project.
++ To better illustrate, here's the image of the process:
+
+![alt text](https://github.com/Abdullahluqmanov/Data-Mining-Project/blob/main/Process.jpg)
++ 
 
 
 
