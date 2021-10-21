@@ -7,4 +7,14 @@
 + For a better analysis, I used RapidMiner Studio as the tool in this project.
 + RapidMiner Studio is a powerful data mining tool that enables everything from data mining to model deployment, and model operations. Its end-to-end data science platform offers all of the data preparation and machine learning capabilities needed to drive real impact across your organization.
 
+#### Analysis method used in this project:
+
++ To achieve better accuracy, both decision tree and the logistic regression is used in this project.
+
++ To better illustrate the analysing process, here's the screen shot of the process:
+
+![alt text](CV.jpg)
+
+
+
 
